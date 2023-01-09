@@ -15,8 +15,8 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-graphql": "^0.8.0",
-    "firebase-admin": "~7.0.0",
-    "firebase-functions": "^2.3.0",
+    "firebase-admin": "~11.4.1",
+    "firebase-functions": "^4.1.1",
     "graphql": "^14.3.1",
     "mongoose": "^5.5.12",
     "nodemon": "^1.19.1"
